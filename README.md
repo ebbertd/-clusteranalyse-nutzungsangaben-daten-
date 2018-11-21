@@ -10,7 +10,7 @@ This repository contains the anonymized datasets from the evaluation of the eLec
 
 ## Available files
 
-The folder *data* contains the anonymized data sets per term. In the winter term 2016/17 the questionnaire was only administered in German. In the summer term 2017 and the winter term 2017/18 the questionnaire was administerd in German and English. The data was gathered using EvaSys and the original file format was *.sav*, after anonymizing the data is now provided as *.csv* files. Additionally, the column labels are provided as a *.csv* file. The folder *questionnaires* contains PDFs of the questionaires used per term. The folder *R* contains the R script used to anonymize the data as well as the R script used to generate the codebooks.
+The folder *data* contains the anonymized data sets per term. In the winter term 2016/17 the questionnaire was only administered in German. In the summer term 2017 and the winter term 2017/18 the questionnaire was administerd in German and English. The data was gathered using EvaSys and the original file format was *.sav*, after anonymizing the data is now provided as *.csv* files. Additionally, the column labels are provided as a *.csv* file. The folder *questionnaires* contains PDFs of the questionaires used per term. The folder *R* contains the R script used to anonymize the data.
 
 ## Removed data
 

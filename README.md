@@ -1,16 +1,16 @@
 # README
 
-This repository contains the anonymized datasets from the evaluation of the eLectures service at the University of Münster from the following terms:
+This repository contains the anonymized datasets from the evaluation of the lecture capture service at the University of Münster from the following semesters:
 
-  - Winter term 2016/17 - german version
-  - Summer term 2017 - german version
-  - Summer term 2017 - english version
-  - Winter term 2017/18 - german version
-  - Winter term 2017/18 - english version
+  - Winter semester 2016/17 - german version
+  - Summer semester 2017 - german version
+  - Summer semester 2017 - english version
+  - Winter semester 2017/18 - german version
+  - Winter semester 2017/18 - english version
 
 ## Available files
 
-The folder *data* contains the anonymized data sets per term. In the winter term 2016/17 the questionnaire was only administered in German. In the summer term 2017 and the winter term 2017/18 the questionnaire was administerd in German and English. The data was gathered using EvaSys and the original file format was *.sav*, after anonymizing the data is now provided as *.csv* files. Additionally, the column labels are provided as a *.csv* file. The folder *questionnaires* contains PDFs of the questionaires used per term. The folder *R* contains the R script used to anonymize the data.
+The folder *data* contains the anonymized data sets per semester. In the winter semester 2016/17 the questionnaire was only administered in German. In the summer semester 2017 and the winter semester 2017/18 the questionnaire was administerd in German and English. The data was gathered using EvaSys and the original file format was *.sav*, after anonymizing the data is now provided as *.csv* files. Additionally, the column labels are provided as a *.csv* file. The folder *questionnaires* contains PDFs of the questionaires used per term. The folder *R* contains the R script used to anonymize the data.
 
 ## Removed data
 
